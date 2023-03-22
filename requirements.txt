@@ -1,0 +1,3 @@
+looker_sdk
+jsonpickle
+boto3
